@@ -1,11 +1,15 @@
 ** TEAM EXECUTIVES **
 
-1. President: Shark Boy
-2. Manager: Sentence
-3. Finance Head: Maxwell 
-4. Medical Head: John Edem
-5. Operations Officer: Solomon
-
+1. President:
+2. Manager:
+3. Finance Head:
+4. Medical Head: 
+5. Operations Officer: 
+6. Social Media head: 
+7. Disciplinary head: 
+8. Data collector:
+9. Scout Head:  
+10. Transfer:
 
 NUMBER OF PLAYERS UNDER CONTRACT: .....
 

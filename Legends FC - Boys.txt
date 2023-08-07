@@ -1,10 +1,15 @@
 ** TEAM EXECUTIVES **
 
-1. President: Kofi Dennis
-2. Manager: Kofi Dennis
+1. President:
+2. Manager:
 3. Finance Head:
-4. Medical Head:
-5. Operations Officer:
+4. Medical Head: 
+5. Operations Officer: 
+6. Social Media head: 
+7. Disciplinary head: 
+8. Data collector:
+9. Scout Head:  
+10. Transfer:
 
 
 NUMBER OF PLAYERS UNDER CONTRACT: .....
