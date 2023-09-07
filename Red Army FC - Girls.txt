@@ -13,32 +13,32 @@
 
 NUMBER OF PLAYERS UNDER CONTRACT: .....
 
-** Names Of Players                                                             ** Date 
-1. Faith Rovina Ngala                                -                         1. Monday, 21st August 2023.
-2. Julia Mc-Addy                                     -                         2. Tuesday, 22nd August 2023.
-3. Edna Antwi                                        -                         3. Tuesday, 22nd August 2023.
-4. Hilary Kwofie                                     -                         4. Tuesday, 22nd August 2023.
-5. Odumma Albert-Viala                               -                         5. Tuesday, 22nd August 2023.
-6. Konama Dartey Shulamite                           -                         6. Tuesday, 22nd August 2023.
-7. Akweley Mc-Addy Julian                            -                         7. Tuesday, 22nd August 2023.
-8. Jackline Mpaye                                    -                         8. Tuesday, 22nd August 2023.
-9. Fatoumata Waggeh                                  -                         9. Tuesday, 22nd August 2023.
-10.Ewuarama Essel                                    -                         10. Tuesday, 22nd August 2023.
-11.Blessing Eileen                                   -                         11. Tuesday, 22nd August 2023.
-12.Karen Daisy                                       -                         12. Tuesday, 22nd August 2023.
-13.Roseline Dzidzema Tsatu                           -                         13. Tuesday, 22nd August 2023
-14.Nshimiyimana Oliver Mushimiyemungu                -                         14. Wednesday, 23rd August 2023.
-15.Makafui Forgive Zonyrah                           -                         15. Thursday, 24th August 2023.
-16.Angau Kook                                        -                         16. Thursday, 24th August 2023.
-17.                                                  -                         17.
-18.                                                  -                         18.
-19.                                                  -                         19.
-20.                                                  -                         20.
-21.                                                  -                         21.
-22.                                                  -                         22.
-23.                                                  -                         23.
-24.                                                  -                         24.
-25.                                                  -                         25.
+** Names Of Players                                                ** Date                                                     ** Duration
+1. Faith Rovina Ngala                            -                 1. Monday, 21st August 2023                  -              1.
+2. Julia Mc-Addy                                 -                 2. Tuesday, 22nd August 2023                 -              2.
+3. Edna Antwi                                    -                 3. Tuesday, 22nd August 2023                 -              3.
+4. Hilary Kwofie                                 -                 4. Tuesday, 22nd August 2023                 -              4.
+5. Odumma Albert-Viala                           -                 5. Tuesday, 22nd August 2023                 -              5.
+6. Konama Dartey Shulamite                       -                 6. Tuesday, 22nd August 2023                 -              6. 
+7. Akweley Mc-Addy Julian                        -                 7. Tuesday, 22nd August 2023                 -              7. 
+8. Jackline Mpaye                                -                 8. Tuesday, 22nd August 2023                 -              8.
+9. Fatoumata Waggeh                              -                 9. Tuesday, 22nd August 2023                 -              9.
+10.Ewuarama Essel                                -                 10. Tuesday, 22nd August 2023                -              10.
+11.Blessing Eileen                               -                 11. Tuesday, 22nd August 2023                -              11.
+12.Karen Daisy                                   -                 12. Tuesday, 22nd August 2023                -              12.
+13.Roseline Dzidzema Tsatu                       -                 13. Tuesday, 22nd August 2023                -              13.
+14.Nshimiyimana Oliver Mushimiyemungu            -                 14. Wednesday, 23rd August 2023              -              14.
+15.Makafui Forgive Zonyrah                       -                 15. Thursday, 24th August 2023               -              15.  
+16.Angau Kook                                    -                 16. Thursday, 24th August 2023               -              16.
+17.                                              -                 17.                                          -              17.
+18.                                              -                 18.                                          -              18.
+19.                                              -                 19.                                          -              19.
+20.                                              -                 20.                                          -              20.
+21.                                              -                 21.                                          -              21.
+22.                                              -                 22.                                          -              22.
+23.                                              -                 23.                                          -              23.
+24.                                              -                 24.                                          -              24.
+25.                                              -                 25.                                          -              25.
 
 
 
