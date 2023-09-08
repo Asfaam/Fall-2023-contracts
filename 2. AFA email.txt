@@ -3,4 +3,4 @@ Password: #eSi4TB@LL
 Mnemonic for password: ASHESI FOOTBALL
 DoB: 4th March 2002
 Gender: Custom (AFA)
-Refer to me as: Other
+Refer to me as: (Other)
