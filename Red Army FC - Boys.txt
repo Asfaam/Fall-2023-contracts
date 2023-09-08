@@ -1,7 +1,7 @@
 ** TEAM EXECUTIVES **
 
 1. President: Godwin Adu Boahen
-2. Manager: Emmanuel Agyei Donkor
+2. Manager: Emmanuel Agyei Donkor (1 year)
 3. Finance Head: 
 4. Medical Head: 
 5. Operations Officer: 
@@ -14,12 +14,12 @@
 NUMBER OF PLAYERS UNDER CONTRACT: .....
 
 ** Names Of Players                                            ** Date                                                     ** Duration
-1. Faisal Alidu                                -               1. Monday, 21st August 2023.                -               1.
-2. Emmanuel Soumahoro                          -               2. Monday, 21st August 2023.                -               2.
-3. Trymore Kunjenjema                          -               3. Wednesday, 23rd August 2023.             -               3.
-4. Palal Asare                                 -               4. Friday, 25th August 2023.                -               4.
-5. Felihle Ncongwane                           -               5. Monday, 28th August 2023.                -               5.
-6.                                             -               6.                                          -               6.
+1. Faisal Alidu                                -               1. Monday, 21st August 2023.                -               1. 1 semester
+2. Emmanuel Soumahoro                          -               2. Monday, 21st August 2023.                -               2. 1 semester
+3. Trymore Kunjenjema                          -               3. Wednesday, 23rd August 2023.             -               3. 1 year
+4. Palal Asare                                 -               4. Friday, 25th August 2023.                -               4. 1 semester
+5. Felihle Ncongwane                           -               5. Monday, 28th August 2023.                -               5. 1 semester
+6. Emmanuel Amiasem Gyato                      -               6. Thursday, 7th September 2023             -               6. 1 year
 7.                                             -               7.                                          -               7.
 8.                                             -               8.                                          -               8.
 9.                                             -               9.                                          -               9.
