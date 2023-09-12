@@ -1,7 +1,7 @@
 ** TEAM EXECUTIVES **
 
 1. President:
-2. Manager:
+2. Manager: Kofi Dennis && David Darko
 3. Finance Head:
 4. Medical Head: 
 5. Operations Officer: 
@@ -16,25 +16,25 @@
 NUMBER OF PLAYERS UNDER CONTRACT: .....
 
 ** Names Of Players                                                      ** Date                                            ** Duration
-1.                                             -                         1.                                  -              1.
-2.                                             -                         2.                                  -              2.
-3.                                             -                         3.                                  -              3.
-4.                                             -                         4.                                  -              4.
-5.                                             -                         5.                                  -              5.
-6.                                             -                         6.                                  -              6.
-7.                                             -                         7.                                  -              7.
-8.                                             -                         8.                                  -              8.
-9.                                             -                         9.                                  -              9.
-10.                                            -                         10.                                 -              10.
-11.                                            -                         11.                                 -              11.
-12.                                            -                         12.                                 -              12.
-13.                                            -                         13.                                 -              13.
-14.                                            -                         14.                                 -              14.
-15.                                            -                         15.                                 -              15.
-16.                                            -                         16.                                 -              16.
-17.                                            -                         17.                                 -              17.
-18.                                            -                         18.                                 -              18.
-19.                                            -                         19.                                 -              19.
+1. Taruwaye Findley-Antonio                    -                         1. Wednesday, 6th September 2023    -              1. 1 year
+2. Chester Sam Attu Kwofie                     -                         2. Wednesday, 6th September 2023    -              2. 1 year
+3. Moses Abubakari                             -                         3. Wednesday, 6th September 2023    -              3. 1 year
+4. Prince Godswill Kofi Osei                   -                         4. Wednesday, 6th September 2023    -              4. 1 year
+5. Emmanuel Agyei                              -                         5. Wednesday, 6th September 2023    -              5. 1 semester
+6. Reindorf Tawiah Narh                        -                         6. Wednesday, 6th September 2023    -              6. 1 semester
+7. Nana Brown                                  -                         7. Wednesday, 6th September 2023    -              7. 1 semester
+8. Emmanuel Kwaw Gyan                          -                         8. Wednesday, 6th September 2023    -              8. 1 semester
+9. Dery Nathaniel Sangtar                      -                         9. Wednesday, 6th September 2023    -              9. 1 year
+10. Nyadro Julius Yao                          -                         10. Wednesday, 6th September 2023   -              10. 1 semester
+11. Charles Asare                              -                         11. Wednesday, 6th September 2023   -              11. 1 semester
+12. Kurklyn Adwaafie                           -                         12. Wednesday, 6th September 2023   -              12. 1 year
+13. Edem Bleboo                                -                         13. Wednesday, 6th September 2023   -              13. 1 year
+14. Desmond Kuuchi                             -                         14. Wednesday, 6th September 2023   -              14. 1 semester
+15. Kweku Ofori Cann                           -                         15. Wednesday, 6th September 2023   -              15. 1 semester
+16. Kobina Kyereboah-Coleman                   -                         16. Wednesday, 6th September 2023   -              16. 1 semester
+17. Senyo Kofi Hlodze                          -                         17. Wednesday, 6th September 2023   -              17. 1 semester
+18. Jude Jovan                                 -                         18. Wednesday, 6th September 2023   -              18. 1 year
+19. Quainoo Paa Kwesi Yeboah                   -                         19. Wednesday, 6th September 2023   -              19. 1 year
 20.                                            -                         20.                                 -              20.
 21.                                            -                         21.                                 -              21.
 22.                                            -                         22.                                 -              22.
