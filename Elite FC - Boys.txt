@@ -16,22 +16,22 @@
 NUMBER OF PLAYERS UNDER CONTRACT: .....
 
 ** Names Of Players                                                      ** Date                                            ** Duration
-1.                                             -                         1.                                  -              1.
-2.                                             -                         2.                                  -              2.
-3.                                             -                         3.                                  -              3.
-4.                                             -                         4.                                  -              4.
-5.                                             -                         5.                                  -              5.
-6.                                             -                         6.                                  -              6.
-7.                                             -                         7.                                  -              7.
-8.                                             -                         8.                                  -              8.
-9.                                             -                         9.                                  -              9.
-10.                                            -                         10.                                 -              10.
-11.                                            -                         11.                                 -              11.
-12.                                            -                         12.                                 -              12.
-13.                                            -                         13.                                 -              13.
-14.                                            -                         14.                                 -              14.
-15.                                            -                         15.                                 -              15.
-16.                                            -                         16.                                 -              16.
+1. Abiringwo Junior                            -                         1. Friday, 8th September 2023       -              1. 1 semester
+2. Etienne Addo                                -                         2. Friday, 8th September 2023       -              2. 1 year
+3. Daniel Ampomah Nkansah                      -                         3. Friday, 8th September 2023       -              3. 1 semester
+4. George Bassam Aan                           -                         4. Friday, 8th September 2023       -              4. 1 semester
+5. Edmund Tettey Okoh Tetteh                   -                         5. Friday, 8th September 2023       -              5. 1 semester
+6. Felin Prince-Agbodjan                       -                         6. Friday, 8th September 2023       -              6. 1 year
+7. Nelson Badoorbe Nor                         -                         7. Friday, 8th September 2023       -              7. 1 semester
+8. Bill Aboagye                                -                         8. Friday, 8th September 2023       -              8. 1 semester
+9. Charles A. Yeboah                           -                         9. Friday, 8th September 2023       -              9. 1 semester
+10. James Tei Kugblenu                         -                         10. Friday, 8th September 2023      -              10. 1 semester
+11. Dylan Asimeng                              -                         11. Friday, 8th September 2023      -              11. 1 year
+12. Leon Kwakye-Safo                           -                         12. Friday, 8th September 2023      -              12. 1 semester
+13. Kweku Agyarko Essilfie                     -                         13. Friday, 8th September 2023      -              13. 1 year
+14. Kobina Kyereboah-Coleman                   -                         14. Sunday, 10th September 2023     -              14. 1 semester
+15. McNobert Amoah                             -                         15. Friday, 8th September 2023      -              15. 1 year
+16. David BabaFemi                             -                         16. Friday, 8th September 2023      -              16. 1 year
 17.                                            -                         17.                                 -              17.
 18.                                            -                         18.                                 -              18.
 19.                                            -                         19.                                 -              19.
